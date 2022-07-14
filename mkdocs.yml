@@ -55,6 +55,7 @@ plugins:
       tags_file: tags.md
   - literate-nav:
       nav_file: src/navigation.md
+  - include-markdown
   - macros
   - git-committers:
       repository: hnlcf/hnlcf.github.io
