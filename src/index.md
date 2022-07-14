@@ -2,8 +2,8 @@
 title: Main Page
 ---
 
-{% include 'README.md' %}
+{% include README.md %}
 
 ## Navigation
 
-{% include 'navigation.md' %}
+{% include navigation.md %}
