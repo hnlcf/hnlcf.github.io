@@ -2,7 +2,7 @@
 title: Main Page
 ---
 
-{% include '../README.md' %}
+{% include 'README.md' %}
 
 ## Navigation
 
