@@ -24,7 +24,7 @@ theme:
     - toc.integrate
 repo_url: https://github.com/hnlcf/hnlcf.github.io
 edit_uri: edit/master/src/
-copyright: Text is available under the <a href="https://github.com/hnlcf/hnlcf.github.io/blob/master/LICENSE"> MIT </a> License<br/>Copyright &copy; 2022 by https://github.com/hnlcf
+copyright: Text is available under the <a href="https://github.com/hnlcf/hnlcf.github.io/blob/master/LICENSE"> MIT </a> License<br/>Copyright &copy; 2022 by <a href="https://github.com/hnlcf"> Changfeng </a>
 extra_javascript:
   - javascript/config.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
